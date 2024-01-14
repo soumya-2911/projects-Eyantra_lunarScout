@@ -11,3 +11,5 @@ It contains functions to calculate the state space model as well as K matrix of 
 It is the state space modelling of a non-linear dynamical system
 ### Main_File.m: 
 It uses the Function_file.m file to give it input and shows the output.
+### Task_1A.m: 
+It contains the octave code of mathematical state space model of an inverted pendulum.
