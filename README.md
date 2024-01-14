@@ -6,3 +6,8 @@ This repo contains the mathematical models and simulations done by us in octave(
 
 ### Function_File.m: 
 Its an octave file and the code written is similar to matlab code.
+To run this you need to install control and sym library in octave.
+It contains functions to calculate the state space model as well as K matrix of lqr controller for a given system defined using set of differential equations.
+It is the state space modelling of a non-linear dynamical system
+### Main_File.m: 
+It uses the Function_file.m file to give it input and shows the output.
