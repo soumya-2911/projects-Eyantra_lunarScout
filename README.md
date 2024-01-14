@@ -4,5 +4,5 @@ This repo contains the mathematical models and simulations done by us in octave(
 
 ## Files details
 
-Function_File.m: 
+### Function_File.m: 
 Its an octave file and the code written is similar to matlab code.
