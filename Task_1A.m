@@ -12,6 +12,7 @@ theta = zeros(size(t));
 theta(1)=theta0;
 theta_dot = zeros(size(t));
 
+
 %x = zeros(size(t));
 
 % Simulate the pendulum motion
