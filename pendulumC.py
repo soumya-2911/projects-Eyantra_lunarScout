@@ -16,7 +16,6 @@ function sysCall_init()
     Kd = -0.007
     --m=sim.computeMassAndInertia(motor,)
     
-    
 end
 
 function sysCall_actuation()
