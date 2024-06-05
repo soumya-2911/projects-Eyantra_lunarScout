@@ -18,8 +18,7 @@ function sysCall_init()
     Ki = -500
     Kd = -350
     
-    
-    
+     
 end
 
 function sysCall_actuation()
